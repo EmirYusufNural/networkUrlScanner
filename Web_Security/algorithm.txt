@@ -1,0 +1,50 @@
+ Project Content
+🚀 Targeted Features:
+✅ Scan websites and identify entry points (forms, URL parameters)
+✅ Testing SQL Injection, XSS, SSTI and IDOR vulnerabilities
+✅ Get the target URL from the user and perform automatic scanning
+✅ Output the screening results as a report
+_______________________________________________________________________________________
+Main Operating Logic
+1️⃣ Targeting: Obtains the target URL from the user.
+2️⃣ Finding Entry Points: Forms, GET and POST parameters are determined.
+3️⃣ Open Scan Module:
+
+SQL Injection test FIX
+XSS testing
+SSTI test
+IDOR test
+4️⃣ Reporting Results: If vulnerabilities are found, do not save the details in a file.
+_______________________________________________________________________________________
+Development Plan
+✅ V1 - Basic Browser and Open Tests
+✅ V2 - Multiple Scans & Advanced Payloads
+✅ V3 - Reporting Module (JSON, HTML Output)
+
+_______________________________________________________________________________________
+ 
+ Proje İçeriği
+🚀 Hedeflenen Özellikler:
+✅ Web sitelerini tarayıp giriş noktalarını belirleme (formlar, URL parametreleri)
+✅ SQL Injection, XSS, SSTI ve IDOR açıklarını test etme
+✅ Kullanıcıdan hedef URL’yi alıp otomatik tarama yapma
+✅ Tarama sonuçlarını bir rapor olarak çıktı verme
+_______________________________________________________________________________________
+Ana İşleyiş Mantığı
+1️⃣ Hedef Belirleme: Kullanıcıdan hedef URL alınır.
+2️⃣ Giriş Noktaları Bulma: Formlar, GET ve POST parametreleri belirlenir.
+3️⃣ Açık Tarama Modülü:
+
+SQL Injection testi FİX
+XSS testi
+SSTI testi
+IDOR testi
+4️⃣ Sonuçları Raporlama: Açıklar bulunduysa detayları bir dosyaya kaydetme.
+_______________________________________________________________________________________
+Geliştirme Planı
+✅ V1 - Temel Tarayıcı ve Açık Testleri
+✅ V2 - Çoklu Tarama & Gelişmiş Payloadlar
+✅ V3 - Raporlama Modülü (JSON, HTML Çıktı)
+
+_______________________________________________________________________________________
+ 
